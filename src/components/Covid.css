@@ -1,0 +1,70 @@
+#main{
+  margin-left: 200px;
+  margin-right: 100px;
+  background-color: rgb(202, 166, 141);
+}
+
+.first {
+  background-color:skyblue;
+  border-radius: 20px;
+  width:300px;
+  float:left;
+  height:200px;
+  font-size: 30px;
+  font-family:Arial,Helvetica,sans-serif;
+  margin-left: 15px;
+  
+}
+.second{
+  background-color:skyblue;
+  width:300px;
+  float:left;
+  border-radius: 20px;
+  height:200px;
+  font-size: 30px;
+  font-family:Arial, Helvetica, sans-serif ;
+  margin-left: 15px;
+}
+.third {
+  background-color:blanchedalmond;
+  border-radius: 20px;
+  width:300px;
+  float:left;
+  height:200px;
+  font-size: 30px;
+  font-family:Arial, Helvetica, sans-serif ;
+  margin-left: 15px;
+}
+.fourth{
+  background-color:red;
+  width:300px;
+  margin-top: 20px;
+  float:left;
+  border-radius: 20px;
+  height:200px;
+  font-size: 30px;
+  font-family:Arial, Helvetica, sans-serif ;
+  margin-left: 15px;
+}
+.fifth{
+  background-color:green;
+  margin-top: 20px;
+  border-radius: 20px;
+  width:300px;
+  float:left;
+  height:200px;
+  font-size: 30px;
+  font-family:Arial, Helvetica, sans-serif ;
+  margin-left: 15px;
+}
+.sixth{
+  background-color:skyblue;
+  margin-top: 20px;
+  width:300px;
+  float:left;
+  border-radius: 20px;
+  height:200px;
+  font-size: 30px;
+  font-family:Arial, Helvetica, sans-serif ;
+  margin-left: 15px;
+}
